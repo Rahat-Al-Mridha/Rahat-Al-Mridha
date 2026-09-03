@@ -1,3 +1,8 @@
+<p align="center">
+  <img
+    src="https://chatgpt.com/s/m_6a996f26429c8191befded0b1ba6f5d5"
+  />
+</p>
 <h1 align="center">Hi 👋, I'm Md. Rahat mridha</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
